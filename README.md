@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Crosslywere
 - 👀 I’m interested in making games
 - 🌱 I’m currently learning java, c++
-- 💞️ I’m looking to collaborate on idk rn
+- 💞️ I’m looking to collaborate on anything graphics related
 - 📫 How to reach me Discord @Crosslywere
 
 <!---
